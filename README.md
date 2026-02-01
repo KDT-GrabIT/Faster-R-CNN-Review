@@ -70,7 +70,7 @@ YOLOv5s는 비록 모델 크기(Parameter)는 작지만, 다음과 같은 최신
 
 | **Faster R-CNN Result** | **YOLOv5s Result** |
 | :---: | :---: |
-| ![Faster R-CNN](images/faster_rcnn_result.jpg) | ![YOLOv5](images/yolov5_result.jpg) |
+| ![Faster R-CNN](images/Faster_R-CNN.png) | ![YOLOv5s](images/YOLOv5s.png) |
 | *높은 신뢰도, 정밀한 박스* | *빠른 속도, 준수한 탐지력* |
 
 ---
